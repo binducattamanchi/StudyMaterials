@@ -27,6 +27,7 @@ This repo covers topics that are required for a Data Engineer using BigData.
 
 * Terminologies
 * Definitions
+* ReleaseNotes
 * Architecture
 * File Formats
 * Performance Tuning
