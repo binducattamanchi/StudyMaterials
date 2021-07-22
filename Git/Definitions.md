@@ -17,17 +17,9 @@ Git’s way of referring to the current snapshot. Internally, the git checkout c
 ## Master
 The default development branch. Whenever you create a git repository, a branch named "master" is created, and becomes the active branch.
 
-## Pipelines
-Bitbucket Pipelines is an integrated CI/CD service, built into Bitbucket. It allows you to automatically build, test and even deploy your code, based on a configuration file in your repository. 
-
-## Pipes
-Bitbucket Pipes are short code chunks that you can drop into your pipeline to perform powerful actions. Pipes make it easier to build powerful, automated CI/CD workflows and get up and running quickly.
-
-## Project
-A project is a container for repositories. Projects make it easier for teams to focus on a goal, product, or process by organizing your repositories into projects. Projects can be either visible or hidden from public view.
 
 ## Pull Request
-Pull requests are a feature that makes it easier for developers to collaborate using Bitbucket. They provide a user-friendly web interface for discussing proposed changes before integrating them into the official project.
+Pull requests are a feature that makes it easier for developers to collaborate using GitHub. They provide a user-friendly web interface for discussing proposed changes before integrating them into the official project.
 
 ## Working Tree
 The tree of actual checked out files, normally containing the contents of the HEAD commit's tree and any local changes you've made but haven't yet committed.
